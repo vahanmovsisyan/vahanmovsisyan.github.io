@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.div1 {
+  width: 200px;
+  height: 20px;
+  background: red;
+
+  color: aliceblue;
+  border-radius: 10px;
+}
+
+.div2 {
+  width: 250px;
+  height: 20px;
+  background: blue;
+  text-align: center;
+  color: aliceblue;
+  border-radius: 10px;
+}
+.dd {
+  margin-top: 20px;
+ 
+}
+#vv {
+  display: flex;
+  justify-content: center;
+}
